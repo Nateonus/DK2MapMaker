@@ -18,7 +18,7 @@ In the future, the DK2 map maker may be able to:
 - Place 'things'
 - Place creatures
 
-## How to: Using this to make mapsC
+## How to: Using this to make maps
 This map maker has the basic functions of map building for DK2. It doesn't have functionality to add scripts or change level properties, however the map maker can still be used to make these complex maps.
 
 ### Basic Maps
@@ -35,3 +35,5 @@ This map maker has the basic functions of map building for DK2. It doesn't have 
 4. Add scripts, change properties, or other complex features.
 5. Export your map.
 
+## Project Info
+The map maker is created in Unity, due to a familiarity with making apps in the software.
