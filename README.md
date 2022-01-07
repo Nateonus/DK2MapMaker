@@ -13,10 +13,13 @@ The DK2 map maker can:
 - Export maps for skirmish or multiplayer
  
 In the future, the DK2 map maker may be able to:
+- 'Neutral Player' walls and floor
+- 5-keeper support
 - Place doors
 - Place traps
 - Place 'things'
 - Place creatures
+
 
 ## How to: Using this to make maps
 This map maker has the basic functions of map building for DK2. It doesn't have functionality to add scripts or change level properties, however the map maker can still be used to make these complex maps.
