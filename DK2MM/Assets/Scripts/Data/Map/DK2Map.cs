@@ -11,6 +11,9 @@ using UnityEngine;
 public class DK2Map
 {
 
+    public int sizeX;
+    public int sizeY;
+
     //Map grids.
     public Terrain[,] terrain;
 

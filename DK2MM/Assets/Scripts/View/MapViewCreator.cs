@@ -10,7 +10,9 @@ using UnityEngine;
 public class MapViewCreator : MonoBehaviour
 {
 
+    [Header("Unity Refs")]
     public TerrainRegistry terrainRegistry;
+    public TileSelector tileSelector;
 
     // Start is called before the first frame update
     void Start()
@@ -25,6 +27,7 @@ public class MapViewCreator : MonoBehaviour
         }
         DK2Map m = new DK2Map();
         m.terrain = t;
+        tileSelector.setActiveMap(m);
         GenerateTerrainForMap(m, transform);
     }
 
